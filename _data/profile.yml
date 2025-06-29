@@ -30,7 +30,7 @@ short_bio: >-
     My latest notable works include
     <a href="https://github.com/Sanesasaha/OSusumeNanDesuka">OSusumeNanDesuka OS</a>, an x86 32-protected operating system written in C and
     <a href="https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Makalah2025/Makalah-IF2211-Strategi-Algoritma-2025%20(100).pdf">InpoCache</a>, 
-    exploration on indexed prompt caching lookup mechanism for efficient LLM query serving.
+    an exploration on indexed prompt-caching lookup mechanisms for efficient LLM query serving.
     Feel free to reach out via
     <a href="mailto:13523066@std.stei.itb.ac.id">email</a>.
   </p>
