@@ -20,7 +20,7 @@ github2: sanesasaha
 linkedin: muhammad-ghifary-komara-putra-40a542372
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
     Good evening. My name is Ghifary, a second-year undergraduate
@@ -28,7 +28,7 @@ short_bio: >-
     particularly in operating systems, database systems, and systems for AI/ML
     with a focus on performance and efficiency.
     My latest notable works include
-    <a href="https://github.com/Sanesasaha/OSusumeNanDesuka">OSusumeNanDesuka OS</a>, an x86 32-protected operating system written in C and
+    <a href="https://github.com/Sanesasaha/OSusumeNanDesuka">OSusumeNanDesuka</a>, an x86 32-protected operating system written in C and
     <a href="https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Makalah2025/Makalah-IF2211-Strategi-Algoritma-2025%20(100).pdf">InpoCache</a>, 
     an exploration on indexed prompt-caching lookup mechanisms for efficient LLM query serving.
     Feel free to reach out via

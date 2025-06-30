@@ -1,10 +1,11 @@
 ---
-title:          "Rush Hour Puzzle Solver"
-date:           2025-05-21
+title:          "Little Alchemy 2 Recipe Finder"
+date:           2025-05-13
 selected:       false
 abstract: >-
-  A solver for the Rush Hour puzzle, with UCS, greedy best-first search, and A* pathfinding, written in Java.
+  A BFS and DFS based recipe finder for Little Alchemy 2, written in next.js and Go.
 cover:          /assets/images/covers/image.png
 links:
-  FE Code: https://github.com/Sanesasaha/Tucil3_13523066_13523072
+  FE Code: https://github.com/Sanesasaha/TUBES2_FE_LetUsCook
+  BE Code: https://github.com/Sanesasaha/TUBES2_BE_LetUsCook
 ---
