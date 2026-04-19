@@ -8,7 +8,7 @@ positions:
 
 
 email: "m.ghifary.k.p@gmail.com"
-email: "13523066@std.stei.itb.ac.id"
+# email: "13523066@std.stei.itb.ac.id"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github2: sanesasaha
@@ -29,7 +29,7 @@ short_bio: >-
     involving OS-level concepts, AI, and algorithmic systems, which strengthened my ability to quickly grasp new concepts
     and translating them into working implementations. I'm particularly interested in system design and backend development,
     and I’m always looking for opportunities to learn and contribute to real-world software engineering problems.
-    Feel free to reach out via <a href="mailto:13523066@std.stei.itb.ac.id">my email</a>.
+    Feel free to reach out via <a href="mailto:m.ghifary.k.p@gmail.com">my email</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.png
