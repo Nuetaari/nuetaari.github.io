@@ -1,7 +1,7 @@
 ---
 title:          "Little Alchemy 2 Recipe Finder"
 date:           2025-05-13
-selected:       false
+selected:       true
 abstract: >-
   A multithreaded BFS and DFS-based recipe finder for Little Alchemy 2, written in next.js and Go.
 cover:          /assets/images/covers/littlealchemy.png
